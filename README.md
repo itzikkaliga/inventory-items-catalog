@@ -3,8 +3,8 @@ A spring boot appliction that maintaining a inventory items catalog
 
 ## How to run it?
 Simply pull this repository run the project,
-and then enter to 
-http://localhost:8083/swagger-ui.html
+and then enter to yout localhost on port 8083 with /swagger-ui.html ending
+(in windows http://localhost:8083/swagger-ui.html)
 to change and and see you inventory items.
 
 ## How to use?
